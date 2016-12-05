@@ -1,0 +1,39 @@
+<!doctype html>
+<html>
+  <head>
+    <meta content="IE=edge" http-equiv="X-UA-Compatible">
+    <meta charset="utf-8">
+    <meta content="width=device-width,initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0,user-scalable=no" name="viewport">
+
+    <meta property="og:title" content="Give more safety online" />
+    <meta property="og:url" content="http://give-more-safety.online" />
+    <meta property="og:image" content="" />
+
+    <!-- Use title if it's in the page YAML frontmatter -->
+    <title><%= current_page.data.title || "Give more safety online" %></title>
+
+    <%= stylesheet_link_tag :site %>
+    <%= javascript_include_tag :all %>
+  </head>
+
+  <body class="<%= page_classes %>">
+
+    <aside>
+      <nav class="inner">
+        <ul class="nav">
+          <li><a href="/en">EN</a></li>
+          <li><a href="/de">DE</a></li>
+        </ul>
+      </nav>
+    </aside>
+
+    <%= yield %>
+
+    <footer>
+      <div class="inner">
+      <a href="https://www.smashingmagazine.com/2014/11/freebie-christmas-icon-set-ai-psd-eps-pdf-svg-png/">Illustrations</a> |
+      <a href="">Code</a>
+      </div>
+    </footer>
+  </body>
+</html>

@@ -1,0 +1,23 @@
+---
+en:
+  title: "Give more safety online"
+
+  present_title: "Still looking for a present for friends and family?"
+  present_text_1: "How about more safety online for the people you care about?"
+  present_text_2: "You can help update the software on the devices of your friends, family, coworkers or classmates."
+  present_title_2: "The most useful presents are often the small ones"
+  present_text_3: "Not everyone is equally tech-savy and not everyone cares about updating the software they're using."
+  present_text_4: "Some people might not be able or interested in doing this themselves. By updating their software for them, you can make the world a slightly better place and help people stay safe."
+  outdated_title: "Outdated software can be dangerous"
+  outdated_text_1: "The software you use might look like it's working fine. However, behind the scenes it may contain faulty or insecure mechanisms that can cause severe security problems."
+  outdated_text_2: "These security issues can have varying severity. In the worst case, once exploited, they can give access to your private information and threaten your online identity."
+  outdated_text_3: "Once the people who maintain the software encounter these issues they usually fix it right away and they make a new release for that software. You can update the software to the newest version and stay safe. Old versions of the software still contain the onsecure code though, so updates are heavily recommended. On top of that there might be new features in these updates as well. So, win win."
+  update_title: "What should you update?"
+  update_intro: "We use a lot of devices these days. Here is a short list that you can check for updates"
+  update_list_1: "The operating system on all your phones, tablets, latops and desktop computers, gaming consoles and smart TVs"
+  update_list_2: "The individual apps on all these devices"
+  update_list_3: "Especially browsers on all these devices"
+  update_browser_note: "Speaking of browsers. The newest versions of Firefox and Chrome update themselves (we call them evergreen browsers). Once your browser is evergreen it doesn't require a manual update. Neat! If you encounter an older version, make sure to upgrade to an evergreen one!"
+  help_title: "Want to help out more?"
+  help_share: "Share this site on your favourite social medias platform."
+  help_translate: "Help translate this page into your own language to reach more people"
