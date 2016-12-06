@@ -1,3 +1,22 @@
 ---
 de:
-  intro: 'Hallo das ist Intro'
+  title: "Verschenke mehr Onlinesicherheit"
+  present_title: "Noch auf der Suche nach einem Geschenk für Freunde und Familie?"
+  present_text_1: "Wie wäre es mit mehr Onlinesicherheit für die Menschen die dir wichtig sind?"
+  present_text_2: "Du kannst dabei helfen die Software auf den Geräten deiner Freund_innen, deiner Familie, Kolleg_innen und Mitschüler_innen zu aktualisieren."
+  present_title_2: "Die nützlichsten Geschenke sind oft die kleinsten"
+  present_text_3: "Nicht jede_r kennt sich gleich gut mit Technik aus und nicht jede_r achtet daruf die Software die er_sie benutzt zu aktualisieren."
+  present_text_4: "Manche Menschen sind vielleicht nicht in der Lage oder interessiert daran das selbst zu tun. Wenn du ihnen hilfst ihre Software aktuall zu halten machst du die Welt zu einem etwas besseren Ort und hilfst ihnen dabei sicherer zu sein."
+  outdated_title: "Nicht aktuelle Software kann gefährlich sein"
+  outdated_text_1: "Die Software die du benutzt sieht vielleicht so aus als ob sie gut funktioniert. Aber im Hintergrund können fehlerhafte oder unsichere Prozesse ablaufen die schwerwiegende Sicherheitsprobleme hervorufen können."
+  outdated_text_2: "Diese Sicherheitsprobleme können unterschliedliche Schweregrade haben. Im schlimmsten Fall, sobald sie ausgenutzt werden, können sie anderen Zugang zu deinen persönlichen Informationen geben und deine Onlineidentität bedrohen."
+  outdated_text_3: "Sobald die Menschen die die Software betreuen diese Probleme finden, werden sie sie diese normalerweise gleich beheben und eine neue Version der Software veröffentlichen. Dann kannst du die Software aktualsieren und sicher bleiben. Alte Versionen der Software hingegen beinhalten immer noch den unsicheren Code, deswegen wird sehr dazu geraten zu aktualisieren. Zusätzlich gibt es vielleicht auch neue Funktionen obendrauf. Also in jedem Fall ein Gewinn."
+  update_title: "Was solltest du updaten?"
+  update_intro: "Wir benutzen heute viele Geräte. Hier ist eine kleine Liste wo du nach Aktualisierungen suchen kannst"
+  update_list_1: "Die Betriebssysteme auf allen Telefonen, Tablets, Laptops, Desktopcomputern, Spielekonsolen und Smart TVs"
+  update_list_2: "Die einzelnen Apps auf allen diesen Geräten"
+  update_list_3: "Besonders die Browser auf allen diesen Geräten"
+  update_browser_note: "Wo wir gerade von Browsern reden. Die neuesten Versionen von Firefox und Chrome aktualisieren sich selbst (Wir nennen sie Evergreen Browsers (engl immergrüner Browser)). Sobald dein Browser evergreen ist, musst du Aktualisierungen nicht mehr manuell vornehmen. Praktisch! Wenn du auf alte Versionen stößt, stelle sicher dass du zu einer evergreen Version aktualisierst!"
+  help_title: "Willst du noch mehr helfen?"
+  help_share: "Teile diese Seite auf deinen Lieblings-Social-Media-Plattformen."
+  help_translate: "Helfe dabei diese Seite in weitere Sprachen zu übersetzen damit sie mehr Menschen lesen können."
