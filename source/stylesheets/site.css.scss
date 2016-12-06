@@ -8,6 +8,14 @@ body {
   color: #222;
 }
 
+a {
+    color: #222;
+    &:hover,
+    &:active {
+        color: #BF352F;
+    }
+}
+
 
 .inner {
 
@@ -49,6 +57,11 @@ body {
 .flex {
     @media (min-width: 800px) {
         display: flex;
+
+        div ~ img,
+        img ~ div {
+            margin-left: 2.5em;
+        }
     }
 }
 
@@ -77,6 +90,7 @@ img {
 .center {
     display: block;
     margin: auto;
+    margin-top: 5em;
 }
 
 @import "nav-highlight";
